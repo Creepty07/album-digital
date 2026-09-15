@@ -178,3 +178,5 @@ const ALBUM_CONFIG = {
 
   ],
 };
+
+window.ALBUM_CONFIG = ALBUM_CONFIG;
