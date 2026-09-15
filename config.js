@@ -77,8 +77,8 @@ const ALBUM_CONFIG = {
       photo: "src/img/01.jpg",
       masthead: "NUESTRO",
       title: "Álbum",
-      sub: "EDICIÓN ESPECIAL",
-      name: "[SU NOMBRE]",
+      sub: "Bisitos",
+      name: "ERANDI",
       issue: "N.º 01",
       date: "15 · SEPTIEMBRE · 2026",
     },
@@ -96,7 +96,7 @@ const ALBUM_CONFIG = {
         "src/img/06.jpg",
       ],
       eyebrow: "CAPÍTULO UNO",
-      note: "Los primeros días, cuando todo era nuevo y ninguno de los dos sabía en qué se estaba metiendo.",
+      note: "",
     },
 
     /* ---------- EDITORIAL ---------- */
@@ -108,8 +108,9 @@ const ALBUM_CONFIG = {
       titleItalic: "para mí?",
       photo: "src/img/07.jpg",
       columns: [
-        "Escribe aquí lo que quieras: cómo la conociste, qué fue lo primero que pensaste, qué cambió desde entonces. Entre más específico, mejor queda.",
-        "Esta es la segunda columna. Puede seguir la misma idea o contar otra cosa distinta.",
+        // "Escribe aquí lo que quieras: cómo la conociste, qué fue lo primero que pensaste, qué cambió desde entonces. Entre más específico, mejor queda.",
+        "Recuerdo verte el segundo día de clases. Nunca hubiera imaginado que llegarías a cambiar todo. Desde entonces, fui el hombre más feliz. Me divertía tanto contigo, que me hacías sentir completo.",
+        "Fue inimaginable para mí que pasaras de ser mi mejor amiga, a mi novia. Mi alegría a mi razón de ser. Alguien con quien quería toda mi vida, a mi vida entera. Eso eres para mí, simplemente lo más importante.",
       ],
       quote: "Y si alguien me preguntara qué es la perfección para mí, siempre te señalaría a ti.",
     },
@@ -128,7 +129,7 @@ const ALBUM_CONFIG = {
         "src/img/02.jpg",
       ],
       eyebrow: "MOMENTOS FAVORITOS",
-      note: "Los momentos favoritos casi nunca son los que estaban planeados.",
+      note: "A tu lado todo momento es mi favorito.",
     },
 
     /* ---------- RAZONES ---------- */
@@ -138,10 +139,10 @@ const ALBUM_CONFIG = {
       title: "Razones por",
       titleItalic: "las que te amo",
       items: [
-        "Escribe aquí la primera razón. Que sea concreta, no bonita.",
-        "La segunda razón va aquí.",
-        "La tercera.",
-        "La cuarta.",
+        "Porque tu belleza me deslumbra.",
+        "Porque me haces reír incluso en días tristes.",
+        "Porque me enseñaste a amar.",
+        "Porque contigo quiero TODO.",
       ],
     },
 
@@ -152,19 +153,19 @@ const ALBUM_CONFIG = {
       month: "SEPTIEMBRE",
       days: ["01", "02", "03", "04", "08", "09", "10", "15"],
       highlight: "15",
-      note: "El día que te lo pedí.",
+      note: "Our new special day.",
     },
 
     /* ---------- PLAYLIST ---------- */
     {
       type: "playlist",
       invert: true,
-      eyebrow: "BANDA SONORA",
+      eyebrow: "",
       title: "Nuestra",
       titleItalic: "playlist",
-      sub: "Cada canción tiene un sobre.",
+      sub: "Cada canción me recuerda a ti, en algún momento de NOSOTROS.",
       // 👇 PEGA AQUÍ EL LINK REAL DE TU PLAYLIST DE SPOTIFY
-      url: "https://open.spotify.com/playlist/REEMPLAZA_ESTE_ID",
+      url: "https://open.spotify.com/playlist/1zpmXzwzCiXCPk6cjqeJl2?si=79098e55fffd4aef",
       buttonLabel: "ESCUCHAR EN SPOTIFY",
     },
 
