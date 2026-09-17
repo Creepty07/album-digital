@@ -146,7 +146,7 @@ const ALBUM_CONFIG = {
       ],
     },
 
-    /* ---------- CALENDARIO ---------- */
+    /* ---------- CALENDARIO ---------- 
     {
       type: "calendario",
       invert: false,
@@ -154,7 +154,7 @@ const ALBUM_CONFIG = {
       days: ["01", "02", "03", "04", "08", "09", "10", "15"],
       highlight: "15",
       note: "Our new special day.",
-    },
+    }, */
 
     /* ---------- PLAYLIST ---------- */
     {
@@ -169,13 +169,13 @@ const ALBUM_CONFIG = {
       buttonLabel: "ESCUCHAR EN SPOTIFY",
     },
 
-    /* ---------- FINAL ---------- */
+    /* ---------- FINAL ---------- 
     {
       type: "final",
       invert: true,
       word: "VOLTEA",
       caption: "",
-    },
+    }, */
 
   ],
 };
